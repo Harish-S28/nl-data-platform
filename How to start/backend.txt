@@ -1,0 +1,3 @@
+cd C:\Users\Asus-2026\Downloads\nl-data-platform\backend
+venv\Scripts\activate
+uvicorn app.main:app --reload --port 8000

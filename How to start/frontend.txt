@@ -1,0 +1,2 @@
+cd C:\Users\Asus-2026\Downloads\nl-data-platform\frontend
+npm run dev
